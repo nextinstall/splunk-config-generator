@@ -14,7 +14,6 @@
 # Uncomment 165 & 170 to write out outputs.conf if needed
 #
 #
-#
 # Written by Tom Gregory for public use - 2019-04-20
 # 
 ###################################################################################################
